@@ -1,2 +1,3 @@
 # xully
-just 
+只是 
+jUst for
